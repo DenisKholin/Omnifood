@@ -1,2 +1,0 @@
-# Omnifood
-Online-restaurant site
